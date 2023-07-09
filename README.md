@@ -136,3 +136,7 @@ update the status of a delivery by entering the delivery ID and the new status.
     - Update the status of an order assigned to the assistant
 The employee interface also allows to employees(above 3 types) to register which they can log
 into after approval from the admin.
+
+### Contributions
+- [@Lakshya Goel](https://github.com/lakshya-goel)
+- [@N Narotam](https://github.com/greasyfinger)
