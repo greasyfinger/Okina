@@ -1,7 +1,7 @@
 # OKINA
 
 ŌKINA is a comprehensive online retail solution that offers a fully functional backend and a minimalistic front end, providing all the capabilities needed for a seamless online shopping experience. With a focus on simplicity and efficiency it can be scaled to empower businesses
-![ER Diagram](./ŌKINA.png)
+![ER Diagram](ŌKINA.png)
 
 ## Database Schema:
 A total of 23 tables (or relations) are created using standard SQL
